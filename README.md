@@ -6,8 +6,14 @@ Este proyecto tiene como objetivo desarrollar un modelo de *Deep Learning* para 
 
 La solución está diseñada para ayudar en la detección temprana de neumonía, proporcionando un soporte de diagnóstico más rápido y preciso a los médicos.
 
-## Despliegue del Modelo  
-El modelo entrenado fue guardado como un archivo `.h5` para facilitar su posterior reutilización y despliegue.
+## Despliegue del Modelo - API
+El modelo entrenado fue guardado como un archivo `.h5` para facilitar su posterior reutilización y despliegue. El despliegue del modelo está disponible en [este enlace](https://udd-proyecto-ds-ia-m7-api.onrender.com/docs) hecho en [Render.com](https://render.com/). Dado que la cuenta utilizada es gratuita, el servidor puede entrar en modo de suspensión cuando no está en uso, lo que puede ocasionar algunos minutos de demora en la carga inicial.
+
+Cuándo se haga la carga inical, la API puede probarse en la sección de POST cómo se ve en esta imágen:
+![FastAPI](images/fastapipost.png)
+
+## Presentación
+La presentación del proyecto donde establezco temas como el problema, el proceso de solución, gráficas de rendimiento y demostración del modelo la puedes encontrar en el [siguiente enlace](https://drive.google.com/file/d/1HkzzhqFKP5pWlWxZ3JN2d3-sYNoqOzHr/view?usp=sharing).
 
 ## Conclusiones y Aprendizajes
 Durante el desarrollo de este proyecto, aprendí la importancia de ajustar correctamente los hiperparámetros para mejorar el rendimiento del modelo. También reforcé mis habilidades en la creación y despliegue de modelos de Deep Learning, así como en el uso de técnicas de visualización para interpretar el rendimiento del modelo.
