@@ -12,7 +12,7 @@ El modelo entrenado fue guardado como un archivo `.h5` para facilitar su posteri
 ### Atención: 
 #### Dado que la cuenta utilizada en Render es gratuita, el servidor puede entrar en modo de suspensión cuando no está en uso, lo que puede ocasionar algunos minutos de demora en la carga y respuesta inicial de la API.
 
-Cuándo se haga la carga inical, la API puede probarse en la sección de POST cómo se ve en esta imágen:
+Cuando se haga la carga inical, la API puede probarse en la sección de POST como se ve en esta imagen:
 ![FastAPI](images/fastapipost.png)
 
 ## Presentación
