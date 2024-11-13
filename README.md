@@ -15,9 +15,6 @@ El modelo entrenado fue guardado como un archivo `.h5` para facilitar su posteri
 Cuando se haga la carga inical, la API puede probarse en la sección de POST como se ve en esta imagen:
 ![FastAPI](images/fastapipost.png)
 
-## Presentación
-La presentación del proyecto donde establezco temas como el problema, el proceso de solución, gráficas de rendimiento y demostración del modelo la puedes encontrar en el [siguiente enlace](https://drive.google.com/file/d/1HkzzhqFKP5pWlWxZ3JN2d3-sYNoqOzHr/view?usp=sharing).
-
 ## Conclusiones y Aprendizajes
 Durante el desarrollo de este proyecto, aprendí la importancia de ajustar correctamente los hiperparámetros para mejorar el rendimiento del modelo. También reforcé mis habilidades en la creación y despliegue de modelos de Deep Learning, así como en el uso de técnicas de visualización para interpretar el rendimiento del modelo.
 
